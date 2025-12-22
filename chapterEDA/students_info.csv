@@ -1,17 +1,17 @@
 student_id,name,gender,age,course,city,marks,attendance
 1,Aarav Sharma,M,20,BCA,Mumbai,78,85
 2,Ananya Verma,F,21,BSc,Delhi,82,90
-3,Rohan Patel,M,22,BCom,Ahmedabad,69,75
+3,,M,22,BCom,Ahmedabad,69,75
 4,Priya Iyer,F,20,BCA,Chennai,91,95
 5,Vikram Singh,M,23,BTech,Jaipur,65,70
 6,Neha Gupta,F,21,BSc,Kanpur,74,88
 7,Arjun Mehta,M,22,BCA,Pune,88,92
 8,Kavya Reddy,F,20,BTech,Hyderabad,93,96
 9,Suresh Kumar,M,24,BCom,Coimbatore,58,60
-10,Pooja Nair,F,22,BSc,Kochi,81,89
+10,Pooja Nair,,22,BSc,Kochi,81,89
 11,Rahul Das,M,21,BCA,Kolkata,72,80
 12,Shivani Mishra,F,23,BTech,Bhopal,85,91
-13,Amit Joshi,M,20,BSc,Indore,67,78
+13,Amit Joshi,,20,BSc,Indore,67,78
 14,Sneha Kulkarni,F,22,BCA,Nagpur,90,94
 15,Karan Malhotra,M,21,BCom,Delhi,76,83
 16,Meena Pillai,F,24,BSc,Trivandrum,84,88
